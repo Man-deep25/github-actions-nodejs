@@ -1,0 +1,44 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "system-info.js",
+  "scripts": {
+    "start": "node system-info.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Man-deep25/github-actions-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Man-deep25/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/Man-deep25/github-actions-nodejs#readme",
+  "dependencies": {
+    "os-utils": "^0.0.14"
+  }
+}
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "main": "system-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Man-deep25/github-actions-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Man-deep25/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/Man-deep25/github-actions-nodejs#readme",
+  "description": ""
+}
