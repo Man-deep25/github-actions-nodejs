@@ -1,3 +1,13 @@
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Man-deep25/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/Man-deep25/github-actions-nodejs#readme",
+  "dependencies": {
+    "os-utils": "^0.0.14"
+  }
+}
 {
   "name": "github-actions-nodejs",
   "version": "1.0.0",
@@ -16,8 +26,5 @@
     "url": "https://github.com/Man-deep25/github-actions-nodejs/issues"
   },
   "homepage": "https://github.com/Man-deep25/github-actions-nodejs#readme",
-  "description": "",
-  "dependencies": {
-    "os-utils": "^0.0.14"
-  }
+  "description": ""
 }
